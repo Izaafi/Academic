@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-    printf("SOmething");
+    printf("Nothing can be found here !");
     return 0;
 }
